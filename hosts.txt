@@ -51,3 +51,15 @@
 ### [Reddit Fix]
 151.101.193.140 www.reddit.com
 151.101.193.140 gql-fed.reddit.com
+### [Porn Block]
+127.0.0.1 xnxx.com
+127.0.0.1 pornhub.com
+127.0.0.1 theporndude.com
+127.0.0.1 onlyfans.com
+127.0.0.1 eporner.com
+127.0.0.1 xhamster.com
+127.0.0.1 nhentai.com
+127.0.0.1 nekopoi.care
+127.0.0.1 xvideos.com
+127.0.0.1 bangbros.com
+127.0.0.1 spankbang.com
