@@ -95,7 +95,6 @@
 127.0.0.1 lh1.googleusercontent.com
 127.0.0.1 rr2---sn-2uuxa3vh-jcoz.googlevideo.com
 127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 play-fe.googleapis.com
 127.0.0.1 rr1---sn-2uuxa3vh-jcoz.googlevideo.com
 0.0.0.0 googleadservices.com
 0.0.0.0 googletagservices.com
