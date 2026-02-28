@@ -1,4 +1,5 @@
-127.0.0.1 d31qbv1cthcecs.cloudfront.net127.0.0.1 d5nxst8fruw4z.cloudfront.net
+127.0.0.1 d31qbv1cthcecs.cloudfront.net
+127.0.0.1 d5nxst8fruw4z.cloudfront.net
 127.0.0.1 das.uadexchange.com
 127.0.0.1 digiads.co.id
 127.0.0.1 digilife.uzone.id
