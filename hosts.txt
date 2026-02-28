@@ -115,6 +115,7 @@ Enter## Blokir Pelacak
 127.0.0.1 internetpositif.uzone.id
 127.0.0.1 v3.mercusuar.uzone.id
 127.0.0.1 internetpositif.id
+127.0.0.1 internet-positif.info
 ### [Firstmedia]
 127.0.0.1 fm1.firstmedia.com
 ### [XL/Fiber/Liveon/Lite]
