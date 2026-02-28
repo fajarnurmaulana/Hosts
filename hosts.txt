@@ -64,3 +64,14 @@
 127.0.0.1 xvideos.com
 127.0.0.1 bangbros.com
 127.0.0.1 spankbang.com
+### [Disable Ads on App]
+127.0.0.1 ms.applovin.com
+127.0.0.1 stage-mediate-events.applovin.com
+127.0.0.1 mads.amazon-adsystem.com
+127.0.0.1 configv2.unityads.unity3d.com
+127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 config.ads.vungle.com
+127.0.0.1 aax-fe.amazon-adsystem.com
+127.0.0.1 sdkopmetrics-us.dsp-api.moloco.com
+127.0.0.1 webview.unityads.unity3d.com
+127.0.0.1 firebaselogging.googleapis.com
