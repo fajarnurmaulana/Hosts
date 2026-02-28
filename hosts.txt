@@ -1,5 +1,4 @@
 BASED ON BEBASID HOSTS
-
 # Blokir Pelacak## Kominfo Lamanlabuh:
 103.87.68.198 lamanlabuh.aduankonten.id
 ## ISPs:
