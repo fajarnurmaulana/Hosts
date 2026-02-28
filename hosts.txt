@@ -125,3 +125,8 @@ Enter## Blokir Pelacak
 127.0.0.1 netsafe.indosatm2.com
 ### [MyRepublic]
 127.0.0.1 block.myrepublic.co.id
+
+
+
+### [dedomil.net]
+188.166.133.152 dedomil.net
