@@ -85,3 +85,12 @@
 127.0.0.1 fcm.afafb.com
 127.0.0.1 rt.applovin.com
 127.0.0.1 applovin.com
+### [Youtube Ads]
+127.0.0.1 app-measurement.com
+127.0.0.1 lh6.googleusercontent.com
+127.0.0.1 lh5.googleusercontent.com
+127.0.0.1 lh4.googleusercontent.com
+127.0.0.1 lh3.googleusercontent.com
+127.0.0.1 lh2.googleusercontent.com
+127.0.0.1 lh1.googleusercontent.com
+127.0.0.1 rr2---sn-2uuxa3vh-jcoz.googlevideo.com
