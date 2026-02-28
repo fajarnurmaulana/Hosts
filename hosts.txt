@@ -51,6 +51,7 @@
 ### [Reddit Fix]
 151.101.193.140 www.reddit.com
 151.101.193.140 gql-fed.reddit.com
+151.101.129.140 www.reddit.com
 ### [Porn Block]
 127.0.0.1 xnxx.com
 127.0.0.1 pornhub.com
