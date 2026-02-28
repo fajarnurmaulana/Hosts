@@ -75,3 +75,5 @@
 127.0.0.1 sdkopmetrics-us.dsp-api.moloco.com
 127.0.0.1 webview.unityads.unity3d.com
 127.0.0.1 firebaselogging.googleapis.com
+127.0.0.1 api16-access-adx-my-noncdn.pangle.io
+127.0.0.1 ms.applvn.com
