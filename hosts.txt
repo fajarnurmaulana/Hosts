@@ -77,3 +77,11 @@
 127.0.0.1 firebaselogging.googleapis.com
 127.0.0.1 api16-access-adx-my-noncdn.pangle.io
 127.0.0.1 ms.applvn.com
+127.0.0.1 prod-mediate-events.applovin.com
+127.0.0.1 cdn.liftoff-creatives.io
+127.0.0.1 res1.applovin.com
+127.0.0.1 hella.afafb.com
+127.0.0.1 gamedot-config.afafb.com
+127.0.0.1 fcm.afafb.com
+127.0.0.1 rt.applovin.com
+127.0.0.1 applovin.com
