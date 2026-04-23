@@ -157,3 +157,8 @@
 0.0.0.0 rr8---sn-ci5gup-jwce.googlevideo.com
 0.0.0.0 rr9---sn-ci5gup-jwce.googlevideo.com
 0.0.0.0 rr10---sn-ci5gup-jwce.googlevideo.com
+#Fix Octo
+0.0.0.0 ap21.zimperium.com
+0.0.0.0 ap21prim-cdn.zimperium.com
+0.0.0.0 edge.zimperium.com
+0.0.0.0 cdn.zimperium.com
